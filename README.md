@@ -15,7 +15,7 @@ The following tax rules apply to Chapter 5 Creating shipping and tax rules.
 In order to produce the TAX rates for Magento 2 I was inspirred by Jisse Reitsma (Yireo).
 https://github.com/yireo/Magento_EU_Tax_Rates
 
-# Manual Changes
+### Manual Changes
 
 To get it working in Magento 2 we just need to remove the column "mpr".
 
